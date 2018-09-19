@@ -1,0 +1,4 @@
+AuthUserFile /review/.htpasswd
+AuthType Basic
+AuthName "Password required"
+Require user marco

@@ -1,0 +1,4 @@
+﻿AuthUserFile http://members.chello.at/soledat/.htpasswd
+AuthType Basic
+AuthName "Password required"
+Require user marco
